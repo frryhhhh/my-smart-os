@@ -1,1 +1,1 @@
-# my-smart-os
+# my-smart-o2
